@@ -1,0 +1,10 @@
+<Button 
+  size="lg" 
+  className="bg-gradient-tech hover:opacity-90 transition-smooth px-8 py-3 text-lg font-semibold hover-lift"
+  asChild
+>
+  <a href="/resume.pdf" download="Bhavyarajsinh_Raulji_Resume.pdf">
+    <Download className="w-5 h-5 mr-2" />
+    Download Resume
+  </a>
+</Button>
